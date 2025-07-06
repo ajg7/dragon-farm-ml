@@ -1,0 +1,6 @@
+flask==3.0.2
+grpcio>=1.66
+grpcio-tools>=1.66
+protobuf>=5
+tensorflow==2.19.0
+pytest>=8
